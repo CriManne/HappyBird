@@ -1,2 +1,2 @@
 # HappyBird
-A very basic remake of the famous game!
+A very basic remake of the famous game
